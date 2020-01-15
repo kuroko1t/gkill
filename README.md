@@ -2,7 +2,7 @@ gkill
 ========
 
 # Description
-grep process kill
+kill a process with grep
 
 # Usage
 
